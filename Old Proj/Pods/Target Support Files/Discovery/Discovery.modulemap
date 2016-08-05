@@ -1,0 +1,6 @@
+framework module Discovery {
+  umbrella header "Discovery-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MNFloatingActionButton {
+  umbrella header "MNFloatingActionButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

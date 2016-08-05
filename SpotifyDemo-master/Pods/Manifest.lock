@@ -1,0 +1,118 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Alamofire (3.4.1)
+  - AudioKit (3.1.3)
+  - BAFluidView (0.2.3)
+  - BFRadialWaveView (1.4.6):
+    - UIColor+BFPaperColors
+  - Bolts/Tasks (1.8.4)
+  - BubbleTransition (1.0.3)
+  - CBZSplashView (1.0.0)
+  - CircleProgressBar (0.32)
+  - ESTMusicIndicator (0.1.2)
+  - EZSwipeController (0.5)
+  - Gecco (0.2.0)
+  - GSKStretchyHeaderView (0.12.0)
+  - MarqueeLabel/Swift (2.7.8)
+  - MEVFloatingButton (1.2)
+  - MGSwipeTableCell (1.5.5)
+  - MNFloatingActionButton (0.1.5)
+  - NVActivityIndicatorView (2.9)
+  - Onboard (2.2.1)
+  - PageMenu (1.2.9)
+  - Pages (0.6.3)
+  - Parse (1.14.2):
+    - Bolts/Tasks (~> 1.8)
+  - ParseUI (1.2.0):
+    - Bolts/Tasks (~> 1.3)
+    - Parse (~> 1.9)
+  - Shimmer (1.0.2)
+  - StretchHeader (1.0.4)
+  - SwiftSiriWaveformView (0.0.3)
+  - Toast-Swift (1.3.0)
+  - UIColor+BFPaperColors (1.7.2)
+  - VideoSplashKit (1.1.0)
+  - Whisper (3.1.0)
+  - XLPagerTabStrip (5.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Alamofire (~> 3.4)
+  - AudioKit (~> 3.1)
+  - BAFluidView (~> 0.2)
+  - BFRadialWaveView (~> 1.4)
+  - BubbleTransition (~> 1.0.0)
+  - CBZSplashView (~> 1.0.0)
+  - CircleProgressBar (~> 0.31)
+  - ESTMusicIndicator (~> 0.1)
+  - EZSwipeController
+  - Gecco
+  - GSKStretchyHeaderView
+  - MarqueeLabel/Swift
+  - MEVFloatingButton
+  - MGSwipeTableCell
+  - MNFloatingActionButton (~> 0.1)
+  - NVActivityIndicatorView
+  - Onboard
+  - PageMenu
+  - Pages
+  - Parse
+  - ParseUI
+  - Shimmer (~> 1.0)
+  - StretchHeader
+  - SwiftSiriWaveformView (~> 0.0)
+  - Toast-Swift (~> 1.3.0)
+  - VideoSplashKit
+  - Whisper
+  - XLPagerTabStrip (~> 5.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AudioKit: 7b7a16383c9ec8721d26a25a46c7326420ca1041
+  BAFluidView: 5d84ef109831b97740f75b6d785e51f13fa08398
+  BFRadialWaveView: dcf3f2b07b3993e6e748fd3489e490d94c1052a8
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  BubbleTransition: a7ae6678721406d60f604cbbea1ace505563119d
+  CBZSplashView: 9ce4cba22024476ff4a97d6433e7347da6376016
+  CircleProgressBar: 3920079be5224b62b3d9ed6eeb23ac01c835b681
+  ESTMusicIndicator: 03dd1364d2db1a0a8684fb907406bc329f3700a6
+  EZSwipeController: 01cc43b319e133b6dbfb25bfdc78617a1560e952
+  Gecco: 27ab0f43da3f8e844771cf641992afdd1ea09c62
+  GSKStretchyHeaderView: 25554059df35b7b01b37373eba1e1e57582c45a2
+  MarqueeLabel: 6fff28d8c12f30b4a8d01a9f5992b4924a857f2b
+  MEVFloatingButton: 63dd4b95d8d58bc0b82b84535a73434d24a4fe84
+  MGSwipeTableCell: bafeb5f351124544c9364ecbdf24c7b06a37d340
+  MNFloatingActionButton: 855acdbf1228f2e7c976dc36f45cb4d8ca2c5bde
+  NVActivityIndicatorView: 0084f6be71bdf4735b5424ebfb530b1e3db3276c
+  Onboard: 75731d0b265f5b5bab0b4bceff1778d7f6e839af
+  PageMenu: ba19ff267f7a19e444e93c20a7847b78954a7011
+  Pages: 71e80bc64040f1176297c327d080d80b7e74b38c
+  Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
+  ParseUI: af2eba584799da4a9fbdac0e178662d7438b502e
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  StretchHeader: abf0d6a795e8e7bf4000752c65c85bf274686f41
+  SwiftSiriWaveformView: 884eafc6efa345555ecf1fcb1baaa2cef7e185dc
+  Toast-Swift: 25c3d98db42dc70d9a77b5006ee000e0becb458e
+  UIColor+BFPaperColors: 03101fe6c10ed00c6daae7c26553f1de41500853
+  VideoSplashKit: 0aa63d0bb37c5bd357de3e6a2a13dea5acad4d66
+  Whisper: 87d00969d01906b94f53c5e9eddde04ebb014ab2
+  XLPagerTabStrip: 87b8b705f9a7178e76a063ffaa2d70045944a965
+
+PODFILE CHECKSUM: 8e40343cba56dc6081a9c35e2886558ed77f3f7d
+
+COCOAPODS: 1.0.1

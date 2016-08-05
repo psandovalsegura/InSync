@@ -1,0 +1,6 @@
+framework module BFRadialWaveView {
+  umbrella header "BFRadialWaveView-umbrella.h"
+
+  export *
+  module * { export * }
+}
